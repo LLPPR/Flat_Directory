@@ -7,7 +7,7 @@ The `flatten_directory.py` script flattens a given directory up to a specified l
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/flatten-directory.git
+   git clone https://github.com/LPX1138/flatten-directory.git
    cd flatten-directory
    ```
 
@@ -23,5 +23,3 @@ The `flatten_directory.py` script flattens a given directory up to a specified l
 
 ## License
 This project is licensed under the Unlicense.
-
-Make sure to replace `yourusername` with your GitHub username. You can now add this documentation to your new repository for the flatten directory script.
