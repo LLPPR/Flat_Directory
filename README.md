@@ -9,7 +9,7 @@ The `flatten_directory.py` script flattens a given directory up to a specified l
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/LPX1138/flatten-directory.git
+   git clone https://github.com/LLPPR/flatten-directory.git
    cd flatten-directory
    ```
 
